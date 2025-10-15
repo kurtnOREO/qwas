@@ -156,3 +156,5 @@ make bench     # Benchmarks
 ---
 
 **License:** Apache-2.0
+
+# PR Merge: 2025-11-19 15:48:59
